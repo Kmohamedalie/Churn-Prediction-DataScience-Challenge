@@ -1,2 +1,2 @@
-# Churn Prediction Coursera Data Science Coding Challenge
+# ChurnPrediction Coursera DS Coding Challenge
 
